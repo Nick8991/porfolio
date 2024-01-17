@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "company": "Eneo Cameroon",
+        "company_link": "https://eneocameroon.cm/",
+        "function": "Software Developper Intern",
+        "location": {
+            "name": "Douala, Cameroon",
+            "link": "https://goo.gl/maps/L9QiYbG6zQy98Pfe8"
+        },
+        "still_workinng": false,
+        "start_date": "2018",
+        "end_date": "2019",
+        "tasks": [
+            "I designed and implemented an API service dedicated to managing SMART AGENCY data,This service aimed to facilitate the subscription process for new electric billing meters through the online platform.By integrating cutting-edge technology and ensuring stringent security measures, the API streamlined the user experience,making it easier for potential clients to subscribe and access the services. Rigorous testing and refinement processes were undertaken to ensure optimal performance and compliance with industry standards,ultimately enhancing SMART AGENCY's operational efficiency and client satisfaction."
+        ]
+    },
+    {
+        "id": 2,
+        "company": "Gensoft",
+        "company_link": "#",
+        "function": "Data Analyst",
+        "location": {
+            "name": "Douala, Cameroon",
+            "link": "https://goo.gl/maps/zxYFDdqVggXAkBMm8"
+        },
+        "still_workinng": false,
+        "start_date": "2019",
+        "end_date": "2020",
+        "tasks": [
+            "Ananlyse data using tools like Excel",
+            "Scrapped websites using beautifulSoup and and Selenium",
+            "Performed Classifications task using Scikit-learn Naive Bayes and Support Vector Machines",
+            "Version management with Git"
+        ]
+    },{
+        "id": 3,
+        "company": "Tefon Oilfield Services",
+        "company_link": "https://www.tefonhr.com/en/",
+        "function": "Data Analyst",
+        "location": {
+            "name": "Douala, Cameroon",
+            "link": "https://goo.gl/maps/zxYFDdqVggXAkBMm8"
+        },
+        "still_workinng": false,
+        "start_date": "2021",
+        "end_date": "2023",
+        "tasks": [
+            "Data Analysis with Excel.",
+            "Querying the database with SQL.",
+            "Data visualization with Tableau.",
+            "API integration."
+        ]
+    },
+    {
+        "id": 4,
+        "company": "Bonitech Sarl",
+        "company_link": "https://toolbrothers.com/",
+        "function": "Lead Data Scientist",
+        "location": {
+            "name": "Yaounde, Cameroon",
+            "link": "https://goo.gl/maps/w9C2xJPWWFnPp1RB7"
+        },
+        "still_workinng": true,
+        "start_date": "2023",
+        "end_date": "2024",
+        "tasks": [
+            "Data Analysis with Excel.",
+            "Querying the database with SQL.",
+            "Data Cleansing and Management.",
+            "Web Scrapping.",
+            "Data visualization with Grafana.",
+            "Deep Learning Models with Pytorch."
+        ]
+    }
+
+]

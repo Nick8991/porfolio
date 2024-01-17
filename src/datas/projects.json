@@ -1,0 +1,176 @@
+[
+    {
+        "id": 1,
+        "type": "Web Scrapping",
+        "name": "Scrape Amazon",
+        "description": "Extract product prices and ASIN (Amazon Standard Identification Number) data from Amazon for the purpose of conducting price comparisons with other platforms.",
+        "live_link": "https://github.com/Nick8991/Scrape-Amazon-ASIN-and-Prices",
+        "git_link": "https://github.com/Nick8991/Scrape-Amazon-ASIN-and-Prices",
+        "image": "/images/projects/amazon.JPG",
+        "used_technos": [
+            {
+                "name": "SQLite",
+                "image": "/images/projects/SQLite.png"
+            },
+            {
+                "name": "Selenium",
+                "image": "/images/projects/selenium.png"
+            },
+            {
+                "name": "Python",
+                "image": "/images/projects/python.png"
+            },
+            {
+                "name": "Database Management",
+                "image": "/images/stacks/sql.png"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "type": "Data Analysis With SQL",
+        "name": "Movie Rental Analysis",
+        "description": "I conducted an in-depth analysis project centered around querying the Sakila DVD Rental Database. The objective was to discern patterns in movie-watching behavior across customer groups, compare payment earnings, and assess store performance. This undertaking showcased my expertise in database querying and data analysis, providing valuable insights for informed decision-making.",
+        "live_link": "https://github.com/Nick8991/Movie-rental-database",
+        "git_link": "https://github.com/Nick8991/Movie-rental-database",
+        "image": "/images/projects/sql_analysis.JPG",
+        "used_technos": [
+            {
+                "name": "Excel",
+                "image": "/images/stacks/excel.png"
+            },
+            {
+                "name": "Database Management",
+                "image": "/images/stacks/sql.png"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "type": "Artificial Intelligence",
+        "name": "Flower Classifier",
+        "description": "Use PyTorch to create a deep neural network. Train the model on a variety of flower images, achieving an accuracy of 92.1%. ",
+        "live_link": "https://github.com/Nick8991/aipnd-project",
+        "git_link": "https://github.com/Nick8991/aipnd-project",
+        "image": "/images/projects/flower.JPG",
+        "used_technos": [
+            {
+                "name": "Python",
+                "image": "/images/stacks/python.png"
+            },
+            {
+                "name": "Pytorch",
+                "image": "/images/stacks/torch.jpeg"
+            },
+            {
+                "name": "Pandas",
+                "image": "/images/projects/pandas.png"
+            },
+            {
+                "name": "Numpy",
+                "image": "/images/stacks/numpy.png"
+            },
+            {
+                "name": "Matplotlib",
+                "image": "/images/projects/matplotlib.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "type": "Web Scrapping",
+        "name": "Scrape product features from Mercateo",
+        "description": "Extract all product features from Mercateo, irrespective of type, for utilization across various sales platforms and integration into our database.",
+        "live_link": "https://github.com/Nick8991/mercateo",
+        "git_link": "https://github.com/Nick8991/mercateo",
+        "image": "/images/projects/mercateo.JPG",
+        "used_technos": [
+            {
+                "name": "Python",
+                "image": "/images/projects/python.png"
+            },
+            {
+                "name": "Selenium",
+                "image": "/images/projects/selenium.png"
+            },
+            {
+                "name": "Database Management",
+                "image": "/images/projects/csv.jpeg"
+            },
+            {
+                "name": "Json",
+                "image": "/images/projects/json.jpeg"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "type": "Data Analysis",
+        "name": "BikeShare Data Analysis with python",
+        "description": "I analyzed the US BikeShare system using Python, specifically pandas and numpy libraries. Users could customize data filters, and I performed descriptive statistics to extract meaningful insights from the database. This project showcased my adeptness in Python for efficient data analysis.",
+        "live_link": "https://github.com/Nick8991/BikeShare-Data-Analysis-Project",
+        "git_link": "https://github.com/Nick8991/BikeShare-Data-Analysis-Project",
+        "image": "/images/projects/project-2.png",
+        "used_technos": [
+            {
+                "name": "Python",
+                "image": "/images/projects/python.png"
+            },
+            {
+                "name": "Numpy",
+                "image": "/images/stacks/numpy.png"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "type": "Data Visualization",
+        "name": "Data Visualization With Grafana",
+        "description": "Karryngo as a THE MULTIMODAL LOGISTICS MARKET NETWORK is set to grow rapidly into a global brand, recognized for its customized services and innovative products and logistics solutions. Africa is our land and terrain and we will speedily close the existing gaps of the logistics market.",
+        "live_link": "https://karryngo.com/",
+        "git_link": "",
+        "image": "/images/projects/grafana_dashboard.JPG",
+        "used_technos": [
+            {
+                "name": "Postgres",
+                "image": "/images/stacks/postgres.png"
+            },
+            {
+                "name": "Database Management",
+                "image": "/images/stacks/sql.png"
+            },
+            {
+                "name": "Data Visualization",
+                "image": "/images/projects/data_visualisation.jpg"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "type": "API Integration",
+        "name": "FnacDarty",
+        "description": ".",
+        "live_link": "https://partners-test.mp.fnacdarty.com/",
+        "git_link": "https://drive.google.com/file/d/1vmM67y8ofMS1mDC_k6qyyoOUI9EJZtAb/view?usp=sharing",
+        "image": "/images/projects/fancdarty.jpeg",
+        "used_technos": [
+            {
+                "name": "Database Management",
+                "image": "/images/stacks/sql.png"
+            },
+            {
+                "name": "Python",
+                "image": "/images/projects/python.png"
+            },
+            {
+                "name": "XML",
+                "image": "/images/projects/XML.jpeg"
+            },
+            {
+                "name": "Postgres",
+                "image": "/images/stacks/postgres.png"
+            }
+
+        ]
+    }
+]
