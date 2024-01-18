@@ -1,1 +1,0 @@
-import{_ as e,o as t,c,a as s}from"./index-4513b673.js";const o={},n={class:"main min-h-[calc(100vh - 100px)] w-full flex justify-center items-center"},a=s("h1",{class:"text-4xl sm:text-7xl font-bold text-center"},"Comming Soon",-1),r=[a];function _(l,i){return t(),c("div",n,r)}const d=e(o,[["render",_]]);export{d as default};
