@@ -35,7 +35,7 @@
         ]
     },{
         "id": 3,
-        "company": "Tefon Oilfield Services",
+        "company": "TEFON HR Services",
         "company_link": "https://www.tefonhr.com/en/",
         "function": "Data Analyst",
         "location": {
@@ -54,14 +54,14 @@
     },
     {
         "id": 4,
-        "company": "Bonitech Sarl",
-        "company_link": "https://toolbrothers.com/",
+        "company": "Dinotech e.K",
+        "company_link": "https://www.dinotech.eu/",
         "function": "Lead Data Scientist",
         "location": {
-            "name": "Yaounde, Cameroon",
-            "link": "https://goo.gl/maps/w9C2xJPWWFnPp1RB7"
+            "name": "Remote",
+            "link": "#"
         },
-        "still_workinng": true,
+        "still_workinng": false,
         "start_date": "2023",
         "end_date": "2024",
         "tasks": [

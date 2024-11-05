@@ -46,7 +46,7 @@
        This comprehensive skill set, coupled with my expertise in Seaborn, Matplotlib, and Tableau, 
        empowers me to transform complex data into compelling narratives, driving informed decisions and business success.</span
       >
-      <a href="https://drive.google.com/file/d/1l8CLUDQYWSyjDdcOdXT6WST1aHoRAYOK/view?usp=sharing" target="_blank">
+      <a href="https://docs.google.com/document/d/16l0ngG4r6SQvhKJN8l5zso1cjNYwiSUs/edit?usp=sharing&ouid=107210240055740785384&rtpof=true&sd=true" target="_blank">
         <button
           class="btn bg-transparent hover:bg-important border-2 border-important text-important hover:text-black px-5 py-3 flex justify-between items-center space-x-3 mt-7"
           v-motion
